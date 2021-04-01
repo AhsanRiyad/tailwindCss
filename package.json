@@ -1,0 +1,23 @@
+{
+  "name": "tailwindcss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-css": "tailwindcss build src/style.css -o public/style.css "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhsanRiyad/tailwindCss.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhsanRiyad/tailwindCss/issues"
+  },
+  "homepage": "https://github.com/AhsanRiyad/tailwindCss#readme",
+  "dependencies": {
+    "tailwindcss": "^2.0.4"
+  }
+}
